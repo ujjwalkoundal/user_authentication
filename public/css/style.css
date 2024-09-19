@@ -1,0 +1,12 @@
+body,h1 {font-family: "Raleway", sans-serif}
+body, html {height: 100%}
+.bgimg {
+  position: absolute;
+  background-image: url("/img/Forest.gif");
+  background-position: center;
+  background-size: cover;
+	min-width: 1200px;
+	min-height: 720px;
+	width:100%;
+	height:100%;
+}
